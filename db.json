@@ -1340,6 +1340,33 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Taylor",
+      "hp": 1,
+      "sprites": {
+        "front": null,
+        "back": null
+      },
+      "id": 151
+    },
+    {
+      "name": "Taylor",
+      "hp": "100",
+      "sprites": {
+        "front": "https://images.homedepot-static.com/productImages/0512b56e-853e-460c-ae32-db03fd897656/svn/green-applied-icon-wall-decals-nfop1203-64_1000.jpg",
+        "back": "https://images-na.ssl-images-amazon.com/images/I/71nJ5Cy5L-L._AC_UL1500_.jpg"
+      },
+      "id": 152
+    },
+    {
+      "name": "Taylor",
+      "hp": "100",
+      "sprites": {
+        "front": "https://1000logos.net/wp-content/uploads/2016/12/Shape-Green-Bay-Packers-Logo.png",
+        "back": "https://images-na.ssl-images-amazon.com/images/I/71nJ5Cy5L-L._AC_UL1500_.jpg"
+      },
+      "id": 153
     }
   ]
 }
